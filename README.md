@@ -30,13 +30,9 @@ The **CO:CO2 Ratio Prediction App** is an interactive web application built usin
 4. **View Predictions**:
    - Click the "PREDICT" button to obtain the predicted CO:CO2 ratio.
 
-## Example Usage
-
-![Example Usage](example_usage.gif)
-
 ## Acknowledgments
 
-- The dataset used for training the model (bf3_co_co2_input.csv) was sourced from [XYZ Dataset Repository](link-to-dataset).
+- The dataset used for training the model (bf3_co_co2_input.csv) was sourced from RINL - VSP Vizag Steel Plant.
 
 ## Contributing
 
